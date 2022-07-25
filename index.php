@@ -69,20 +69,21 @@ $hookObject = json_encode([
 
                 [
                     "name" => "FAI",
-                    "value" => "$user_fai"
+                    "value" => "$user_fai",
                     "inline" => true
 
                 ]
                 
                 [
-                    "name" => "Record"
-                    "value" => "$user_record"
+                    "name" => "Record",
+                    "value" => "$user_record",
                     "inline" => true
                 ]
 
                 [
-                    "name" => "Click date"
-                    "value" => "$user_clickdate"
+                    "name" => "Click date",
+                    "value" => "$user_clickdate",
+		    "inline" => true
                 ]
             ]
         ]
