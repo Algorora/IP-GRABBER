@@ -3,6 +3,7 @@
 <p align="center">I made this ip grabber for educational purposes</p>
 
 ##Features
+
 - [x] Simple to understand
 - [x] Sends data to a discord webhook
 - [x] Fake 404 page(Hidden grab)
