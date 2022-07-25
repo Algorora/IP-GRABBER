@@ -1,2 +1,13 @@
-# IP-GRABBER
-[![Netlify Status](https://api.netlify.com/api/v1/badges/4b7de953-329f-492b-b9a9-dc1b1e12e8aa/deploy-status)](https://app.netlify.com/sites/profound-elf-d6bb5e/deploys)
+<h1 align="center">PHP IP Grabber</h1>
+
+<p align="center">I made this ip grabber for educational purposes</p>
+
+##Features
+- [x] Simple to understand
+- [x] Sends data to a discord webhook
+- [x] Fake 404 page(Hidden grab)
+
+## Future Updates
+
+- [ ] VPN Bypass
+- [ ] POST to an admin panel
